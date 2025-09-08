@@ -10,7 +10,7 @@ A repository containing complete Data Structures and Algorithms using c++.
 
 ## 🗃️ Data Structures
 
-- **Linear Data Structures - (Containers)**
+- **Linear Data Structures**
   - Arrays (1D & 2D)
   - Linked Lists (Singly & Doubly)
   - Stack
@@ -21,7 +21,7 @@ A repository containing complete Data Structures and Algorithms using c++.
   - Trees
   - Graphs
 
-- **Standard template Library**
+- **Standard template Library - (Containers)**
   - Vectors
   - Sets (including unordered and multi sets)
   - Maps (including unordered and multi maps)
