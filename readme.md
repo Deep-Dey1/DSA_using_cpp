@@ -7,6 +7,7 @@ A repository containing complete Data Structures and Algorithms using c++.
 - **Basics of C++** (revision)
 - **Advanced C++ topics**
 - **Object-Oriented Programming (OOP)** in C++ with a project
+- **Strings**
 
 ## 🗃️ Data Structures
 
