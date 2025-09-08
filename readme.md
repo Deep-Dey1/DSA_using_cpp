@@ -1,42 +1,62 @@
-Complete Data Structures and Algorithms using c++ 
+# Data Structures and Algorithms using C++
 
-language : 
+A comprehensive study guide covering essential data structures and algorithms implemented in C++.
 
-basics of c++ (revise)
-advanced cpp topics (perfect)
-OOPs in CPP with a Project
+## 📚 Language Topics
 
-Data Structures : 
+- **Basics of C++** (revision)
+- **Advanced C++ topics**
+- **Object-Oriented Programming (OOP)** in C++ with a project
 
-Vectors 
-Sets
-Maps
-Stack 
-Queue
-unordered and multi sets and maps 
-iterators
-algorithms
-Array 1D
-Array 2D
-Linked List (Singly and Doubly
-Satack
-Queues
-Priority Queue
-Trees  
-Graphs
+## 🗃️ Data Structures
 
-Algorithms :
+- **Linear Data Structures**
+  - Arrays (1D & 2D)
+  - Vectors
+  - Linked Lists (Singly & Doubly)
+  - Stack
+  - Queue
+  - Priority Queue
 
-Recursion 
-Searching
-Sorting  (till quick and merge sort)\
-Divide And Conqure
-Greedy
-Dynamic Programming
-Backtracking
-Branch and Bound
+- **Non-Linear Data Structures**
+  - Trees
+  - Graphs
 
-Leetcode Standard Problems and Patterns
-CodeChef Rank Improvement
+- **STL Containers**
+  - Sets (including unordered and multi sets)
+  - Maps (including unordered and multi maps)
+  - Iterators
+  - STL Algorithms
+
+## ⚡ Algorithms
+
+- **Fundamental Techniques**
+  - Recursion
+  - Searching
+  - Sorting (up to Quick Sort and Merge Sort)
+
+- **Advanced Paradigms**
+  - Divide and Conquer
+  - Greedy Algorithms
+  - Dynamic Programming
+  - Backtracking
+  - Branch and Bound
+
+## 🎯 Practice & Improvement
+
+- **LeetCode** - Standard problems and patterns
+- **CodeChef** - Competitive programming rank improvement
+
+## 🚀 Getting Started
+
+This repository contains implementations and explanations of various data structures and algorithms using C++. Each topic includes:
+- Theoretical explanations
+- Code implementations
+- Time and space complexity analysis
+- Practice problems
+
+---
+
+*Happy Coding! 🚀*
 
 
