@@ -1,6 +1,6 @@
 # Data Structures and Algorithms using C++
 
-A comprehensive study guide covering essential data structures and algorithms implemented in C++.
+A repository containing complete Data Structures and Algorithms using c++.
 
 ## 📚 Language Topics
 
@@ -10,9 +10,8 @@ A comprehensive study guide covering essential data structures and algorithms im
 
 ## 🗃️ Data Structures
 
-- **Linear Data Structures**
+- **Linear Data Structures - (Containers)**
   - Arrays (1D & 2D)
-  - Vectors
   - Linked Lists (Singly & Doubly)
   - Stack
   - Queue
@@ -22,9 +21,16 @@ A comprehensive study guide covering essential data structures and algorithms im
   - Trees
   - Graphs
 
-- **STL Containers**
+- **Standard template Library**
+  - Vectors
   - Sets (including unordered and multi sets)
   - Maps (including unordered and multi maps)
+  - Queue
+  - Priority Queue
+  - Dequeue
+  - Stack
+
+- **Standard Template Library - (Iterators and Algorithms)**
   - Iterators
   - STL Algorithms
 
@@ -33,7 +39,7 @@ A comprehensive study guide covering essential data structures and algorithms im
 - **Fundamental Techniques**
   - Recursion
   - Searching
-  - Sorting (up to Quick Sort and Merge Sort)
+  - Sorting (all basic sorting up to Quick Sort and Merge Sort and some advanced sortings too line radix and bucket sort etc)
 
 - **Advanced Paradigms**
   - Divide and Conquer
@@ -46,17 +52,3 @@ A comprehensive study guide covering essential data structures and algorithms im
 
 - **LeetCode** - Standard problems and patterns
 - **CodeChef** - Competitive programming rank improvement
-
-## 🚀 Getting Started
-
-This repository contains implementations and explanations of various data structures and algorithms using C++. Each topic includes:
-- Theoretical explanations
-- Code implementations
-- Time and space complexity analysis
-- Practice problems
-
----
-
-*Happy Coding! 🚀*
-
-
