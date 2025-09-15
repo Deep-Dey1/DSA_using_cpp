@@ -11,20 +11,23 @@ First line contains T, number of people observed by Tanu.
 Each person is described in two lines. First line of the description contains a single integer N, the number of gestures recorded for this person. Next line contains a string of N characters, each character can be "Y", "N" or "I".
 Output
 For each person, print "INDIAN" if he/she is from India, "NOT INDIAN" if not from India, and "NOT SURE" if the information is insufficient to make a decision.
-Constraints
-For 30 points:
-1 ≤ T,N ≤ 100
-For 70 points:
-1 ≤ T,N ≤ 1000
-sample inputs :
-3
-5
-NNNYY
-6
-NNINNI
-4
-NNNN
-sample outputs :
-NOT INDIAN
-INDIAN
-NOT SURE
+
+- Constraints
+    - For 30 points:
+    - 1 ≤ T,N ≤ 100
+    - For 70 points:
+    - 1 ≤ T,N ≤ 1000
+
+- sample inputs :
+    - 3
+    - 5
+    - NNNYY
+    - 6
+    - NNINNI
+    - 4
+    - NNNN
+
+- sample outputs :
+    - NOT INDIAN
+    - INDIAN
+    - NOT SURE
