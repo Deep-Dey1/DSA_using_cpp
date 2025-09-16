@@ -4,5 +4,6 @@
 - Doc : https://www.geeksforgeeks.org/dsa/sieve-of-eratosthenes/
 - Doc : https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html
 - video : https://youtu.be/g5Fuxn_AvSk?si=jXELokrnTieomdoG
--- [using this algo : O(nloglogn)]
--- [Naive methode exists O(n root(n)) or O(n square)]
+
+    - [using this algo : O(nloglogn)]
+    - [Naive methode exists O(n root(n)) or O(n square)]
