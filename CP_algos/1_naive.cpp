@@ -1,3 +1,4 @@
+// finding the first n primes using naive approach : 
 #include<iostream>
 using namespace std;
 int isprime(int i){
