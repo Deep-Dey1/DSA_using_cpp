@@ -20,8 +20,8 @@ int main(){
     // and continue
 
     // creating the black_box : O(nloglogn) {its a prime harmonic series}
-    for(int i = 0 ; i < end + 1; i++){
-        if(black_box[i] == 1){
+    for(int i = 0 ; i*i < end + 1; i++){ // optimization that is why not checking from i = 0 to end
+        if(black_box[i]){
             //for(int j = i*2 ; j < end + 1 ; j += i){ this is the nive approach to assign the 0 to the multiples of the prime 
             for(int j = i*i ; j < end + 1; j += i){ // this is a bit optimal approach to assign the 0 to the multiple here j dont start with 2*i insted i*i preventing the repetation of already 0 alloted places
                 black_box[j] = 0;
